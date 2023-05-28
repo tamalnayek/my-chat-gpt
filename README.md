@@ -37,3 +37,7 @@ Body:
         "total_tokens": 16
     }
 }
+
+# My-local-Request :
+http://localhost:8080/bot/chat?prompt=What is best way to learn coding
+
